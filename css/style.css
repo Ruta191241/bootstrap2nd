@@ -139,7 +139,7 @@ body {
 
   .container .row .col img  {
     object-fit: cover;
-    max-width: 450px;
+    max-width: 350px;
     height: 400px;
   }
   
