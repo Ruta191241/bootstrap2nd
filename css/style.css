@@ -58,6 +58,7 @@ body {
 
   
   section .row .col .col-sm-6 img {
+    display: flex;
     margin: 0 0 30px;
     width: 100%;
   }
@@ -131,14 +132,15 @@ body {
   }
   
   footer li img {
+    display: flex;
     width: 32px;
     height: 32px;
   }
 
   .container .row .col img  {
     object-fit: cover;
-    width: 500px;
-    height: 500px;
+    max-width: 450px;
+    height: 400px;
   }
   
  
