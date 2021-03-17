@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    border:0;
+    }
+
+    header {
+        padding: 20px 0;
+      } 
+.jumbotron-fluid {
+    background-image: url(‘drakon-okkkk-vmmmv.jpg’);
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+ 
+   .image { 
+    position: relative; 
+    width: 100%; /* for IE 6 */
+ }
+ 
+ .jumbotron-fluid h1 { 
+    position: absolute; 
+    top: 200px; 
+    left: 0; 
+    width: 100%; 
+ }
+
+
+  footer .row {
+    display: flex;
+    align-items: center;
+  }
+  footer {
+    font-size: 12px;
+    padding: 20px 0;
+  }
+  
+  footer .col-sm-8 {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  footer ul {
+    list-style: none;
+  }
+  
+  footer li img {
+    width: 32px;
+    height: 32px;
+  }
+  .container .row p {
+
+    color: black;
+  }
+
+  .btn.btn-primary {
+    border-radius: 2px;
+    border: 0px;
+    color: #ffcc00;
+    text-shadow: none;
+    background-color: #ffcc00;
+  }
+  
+  .btn.btn-primary:hover {
+    color: #ffcc00;
+    background-color: #ffcc00;
+  }
+  
+  .btn-secondary {
+    background-color: #ffcc00;
+    color:#ffcc00;
+    margin: 0 0 30px;
+  }
+
+  .container .col-sm-6 img {
+
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+  }
+
+  .container .col-sm-6 {
+
+    font-size: 14pt;
+    text-align: justify;
+    padding-top: 30px;
+  }
+  .jumbotron-fluid, h1 {
+
+    font-family: 'Anton', sans-serif;
+    font-size: 80pt;
+    color: #ffcc00;
+    padding-left: 240px;
+  }
+  header {
+    background-color: black;
+    
+ }
+
+ header a {
+    font-family: 'Anton', sans-serif;
+    font-size: 32pt;
+    color: #ffcc00;
+  }

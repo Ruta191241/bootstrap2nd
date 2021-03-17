@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    border:0;
+    }
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+  }
+  
+  header {
+    padding: 20px 0;
+  }
+  
+  header .row,
+  footer .row {
+    display: flex;
+    align-items: center;
+  }
+  
+  header  h2 {
+    font-family: 'Anton', sans-serif;
+    font-size: 32pt;
+    color: #ffcc00;
+  }
+  
+  header nav {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  header p {
+    display: flex;
+    padding: 0 20px;
+    margin: 0;
+  }
+  
+  .jumbotron {
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    background-color: black;
+    height: 875px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+  }
+
+  
+  .jumbotron h3 {
+    display: flex;
+    margin: 0 0 20px;
+    color: #fff;
+  }
+  
+  section .col-sm-6 img {
+    margin: 0 0 30px;
+    width: 100%;
+  }
+
+  
+  section .row .col .col-sm-6 img {
+    margin: 0 0 30px;
+    width: 100%;
+  }
+
+
+  .col-md-6 {
+    margin: 0 0 30px;
+  }
+  
+  .carouselarousel, h5 {
+    display: flex;
+    font-family: 'Anton', sans-serif;
+    font-size: 100pt;
+    color: #ffcc00;
+    padding-bottom: 550px;
+  }
+  .carouselarousel, h6 {
+    display: flex;
+    font-family: 'Anton', sans-serif;
+    font-size: 100pt;
+    color:#ffcc00;
+    padding-bottom: 550px;
+  }
+  .carouselarousel, h4 {
+    display: flex;
+    font-family: 'Anton', sans-serif;
+    font-size: 100pt;
+    color:#ffcc00;
+    padding-bottom: 50px;
+  }
+  .carouselarousel, p {
+    display: flex;
+    font-size: 20pt;
+    color: white;
+    
+  }
+
+  
+
+  .btn.btn-primary {
+    border-radius: 2px;
+    border: 0px;
+    color: #ffcc00;
+    text-shadow: none;
+    background-color: #ffcc00;
+  }
+  
+  .btn.btn-primary:hover {
+    color: #ffcc00;
+    background-color: #ffcc00;
+  }
+  
+  .btn-secondary {
+    background-color: #ffcc00;
+    color:#ffcc00;
+    margin: 0 0 30px;
+  }
+  
+  footer {
+    font-size: 12px;
+    padding: 20px 0;
+  }
+  
+  footer .col-sm-8 {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  footer ul {
+    list-style: none;
+  }
+  
+  footer li img {
+    width: 32px;
+    height: 32px;
+  }
+
+  .container .row .col img  {
+    object-fit: cover;
+    width: 500px;
+    height: 500px;
+  }
+  
+ 
+
+
+body{
+    background-color: black;
+}
+ header {
+    background-color: black;
+    
+ }
+.container .row p{
+
+        font-size: 42px;
+        font-family: 'Anton', sans-serif;
+        color: #ffcc00;
+            padding-top: 200px;
+   }
+        
+ .col-sm-4 p{
+            font-size: 12px;
+            font-family:  sans-serif;
+            color: white;
+
+    }
