@@ -25,6 +25,30 @@
     width: 100%; 
  }
 
+ #breathing1{
+  color:#ffcc00;
+  width: 500px;
+  font-size: 40px;
+  font-weight:bolder;
+  }
+  #breathing2{
+    color:#ffcc00;
+    width: 500px;
+    font-size: 40px;
+    font-weight:bolder;
+    }
+    #breathing3{
+      color:#ffcc00;
+      width: 500px;
+      font-size: 40px;
+      font-weight:bolder;
+      }
+      #breathing4{
+        color:#ffcc00;
+        width: 500px;
+        font-size: 40px;
+        font-weight:bolder;
+        }
 
   footer .row {
     display: flex;
@@ -91,6 +115,7 @@
     font-size: 80pt;
     color: #ffcc00;
     padding-left: 240px;
+
   }
   header {
     background-color: black;

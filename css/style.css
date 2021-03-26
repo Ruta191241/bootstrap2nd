@@ -116,7 +116,28 @@ body {
     color:#ffcc00;
     margin: 0 0 30px;
   }
-  
+  #med{
+    color:#ffcc00;
+    width: 80px;
+  }
+  #breathing{
+  color:#ffcc00;
+  width: 500px;
+  }
+  #belief{
+    color:#ffcc00;
+    width: 500px;
+    }
+  #mistake{
+    color:#ffcc00;
+    width: 500px;
+    }
+
+
+    .container .row p {
+
+      color: black;
+    }
   footer {
     font-size: 12px;
     padding: 20px 0;
@@ -167,3 +188,7 @@ body{
             color: white;
 
     }
+.btn btn-outline-success my-2 my-sm-0 {
+ 
+  color: #6D771D;
+}
